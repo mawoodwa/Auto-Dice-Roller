@@ -6,5 +6,5 @@ development!
 ## Building
 
 Make a subdirectory named "build" beside "src". Change to that
-directory, then run "cmake --build ../src". Any time you want to
-rebuild, go to the build directory and run "cmake --build ."
+directory, then run "cmake ../src". Any time you want to rebuild, go
+to the build directory and run "cmake --build ."
